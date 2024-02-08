@@ -13,3 +13,10 @@ a:hover {
 a:active {
 	color: red;
 }
+
+body {
+	font-family: 'Playfair Display', serif:
+}
+/*the above is just an example to link a google font onto your website, again there should be a little textbox if you scroll with text to copy paste onto here*/
+/*coolors.co or w3 schools is a good place to find colors for css*/
+/*you can also put in the hex code of a color you want in place of the css color names*/
