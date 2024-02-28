@@ -2,16 +2,20 @@ a {
 	text-decoration: none;
 }
 a:link {
-	color: mediumpurple;
+	color: black;
 }
 a:visited {
-	color: blueviolet;
+	color: black;
 }
 a:hover {
-	color: teal;
+	font-weight: bold;
+	font-style: italic;
+	color: darkred;
 }
 a:active {
-	color: red;
+	font-weight: bold;
+	font-style: italic;
+	color: darkred;
 }
 
 body {
@@ -39,6 +43,13 @@ h2 {
   margin-top: 0px;
   margin-left: 50px;
   margin-right: 50px;
+}
+
+p {
+	font-family: ;
+	margin-top: 150px;
+	margin-left: 150px;
+	margin-right: 150px;
 }
 
 /*the above is just an example to link a google font onto your website, again there should be a little textbox if you scroll with text to copy paste onto here*/
