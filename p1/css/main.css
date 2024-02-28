@@ -63,15 +63,18 @@ h2 {
   margin-right: 50px;
 }
 
-.p1 {
-	font-family: "Questrial", sans-serif;
-	margin-top: 175px;
-}
-
 p {
 	font-family: "Questrial", sans-serif;
 	margin-left: 150px;
 	margin-right: 150px;
+}
+
+.p1 {
+	margin-top: 175px;
+}
+
+.plast {
+	margin-bottom: 150px;
 }
 
 /*the above is just an example to link a google font onto your website, again there should be a little textbox if you scroll with text to copy paste onto here*/
