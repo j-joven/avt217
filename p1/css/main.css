@@ -15,12 +15,15 @@ a:active {
 }
 
 body {
+	background-color: #e6e2da;
 	font-family: 'Playfair Display', serif:
 }
 
 
 h1 {
   font-family: "Libre Baskerville", serif;
+  font-size: 50px;
+  text-align: center;
 }
 
 /*the above is just an example to link a google font onto your website, again there should be a little textbox if you scroll with text to copy paste onto here*/
