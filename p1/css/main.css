@@ -19,7 +19,7 @@ body {
 }
 
 
-.noto-serif-<h1> {
+h1 {
   font-family: "Noto Serif", serif;
   font-optical-sizing: auto;
   font-weight: 800;
