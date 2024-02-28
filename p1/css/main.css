@@ -1,18 +1,36 @@
-a {
+.mainindexlink {
 	text-decoration: none;
 }
-a:link {
+.mainindexlink:link {
 	color: black;
 }
-a:visited {
+.mainindexlink:visited {
 	color: black;
 }
-a:hover {
+.mainindexlink:hover {
+	font-weight: bold;
+	color: darkred;
+}
+.mainindexlink:active {
+	font-weight: bold;
+	color: darkred;
+}
+
+.pageslinks {
+	text-decoration: none;
+}
+.pageslinks:link {
+	color: black;
+}
+.pageslinks:visited {
+	color: black;
+}
+.pageslinks:hover {
 	font-weight: bold;
 	font-style: italic;
 	color: darkred;
 }
-a:active {
+.pageslinks:active {
 	font-weight: bold;
 	font-style: italic;
 	color: darkred;
@@ -45,9 +63,13 @@ h2 {
   margin-right: 50px;
 }
 
+.p1 {
+	font-family: "Questrial", sans-serif;
+	margin-top: 175px;
+}
+
 p {
-	font-family: ;
-	margin-top: 150px;
+	font-family: "Questrial", sans-serif;
 	margin-left: 150px;
 	margin-right: 150px;
 }
