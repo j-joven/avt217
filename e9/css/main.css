@@ -1,5 +1,8 @@
 * { box-sizing: border-box;}
 body { margin: 0; }
+
+/* pattern 1 css */
+
 .p1-1 {
 	width: 75px;
 	height: 75px;
@@ -42,6 +45,8 @@ body { margin: 0; }
 	transform: skew(-30deg, 10deg);
 }
 
+/* pattern 2 css */
+
 .p2-1 {
 	width: 150px;
 	height: 75px;
@@ -68,4 +73,42 @@ body { margin: 0; }
 	float: left;
 	margin: -30px;
 	border: 3px solid darkslateblue;
+}
+
+/* pattern 3 css */
+
+.p3-1 {
+	width: 175px;
+	height: 175px;
+	float: left;
+	opacity: .7;
+	margin: -8px;
+	border: 20px double rgba(169, 153, 133, .8);
+}
+
+.p3-2 {
+	width: 75px;
+	height: 75px;
+	background-color: rebeccapurple;
+	float: left;
+	opacity: .7;
+	margin: -8px;
+}
+
+.p3-3 {
+	width: 75px;
+	height: 75px;
+	background-color: rebeccapurple;
+	float: left;
+	opacity: .7;
+	margin: -8px;
+} 
+
+.p3-4 {
+	width: 75px;
+	height: 75px;
+	background-color: rebeccapurple;
+	float: left;
+	opacity: .7;
+	margin: -8px;
 }
