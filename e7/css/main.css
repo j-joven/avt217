@@ -1,8 +1,25 @@
+header { 
+	padding: 125px 100px 125px 100px;
+	text-align: center;
+ }
+
 h1 {
 	font-family: "bookmania", serif;
 	font-weight: 700;
 	font-style: normal;
 	font-size: 100px;
-	line-height: 105px;
+	line-height: 40px;
 	text-align: center;
+}
+
+.preface {
+	padding: 100px 100px 125px 100px;
+}
+
+.maincontent {
+	padding: 0px 100px 125px 100px;
+}
+
+.bodyp1 {
+	padding: 0px 0px 35px 0px;
 }
