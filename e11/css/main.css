@@ -1,0 +1,43 @@
+.lamp {
+	position: relative;
+	top: 50px;
+	left: 37%;
+}
+
+.base {
+	width: 100px;
+	height: 200px;
+	position: absolute;
+	top: 275px;
+	left: 130px;
+	background-color: #888888;
+	border-radius: 15px 15px 0 0;
+}
+.neck {
+	width: 15px;
+	height: 25px;
+	position: absolute;
+	top: 250px;
+	left: 175px;
+	background-color: #333333;
+}
+.shade {
+	border-bottom: 200px solid bisque;
+	border-left: 75px solid transparent;
+	border-right: 75px solid transparent;
+	width: 125px;
+	height: 0;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
+.pull-string {
+	border-bottom: 200px solid bisque;
+	border-left: 75px solid transparent;
+	border-right: 75px solid transparent;
+	width: 125px;
+	height: 0;
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
