@@ -88,27 +88,40 @@ body { margin: 0; }
 
 .p3-2 {
 	width: 75px;
-	height: 75px;
-	background-color: rebeccapurple;
+	height: 275px;
 	float: left;
-	opacity: .7;
-	margin: -8px;
+	margin: -40px;
+	border: 20px double;
+	border-color: #C4B2BC;
+	border-radius: 35px;
+	transform: rotate(22deg);
 }
 
 .p3-3 {
-	width: 75px;
+	width: 175px;
 	height: 75px;
-	background-color: rebeccapurple;
-	float: left;
-	opacity: .7;
-	margin: -8px;
+	margin: -50px;
+	float: right;
+	border: 20px double;
+	border-color: #332E3C;
+	border-radius: 35px;
+	transform: rotate(45deg);
 } 
 
 .p3-4 {
-	width: 75px;
-	height: 75px;
-	background-color: rebeccapurple;
-	float: left;
-	opacity: .7;
+	width: 100px;
+	height: 100px;
+	float: right;
+	background-color: #D8D4F2;
 	margin: -8px;
+	border-radius: 35px;
+}
+
+.p3-5 {
+	width: 100px;
+	height: 100px;
+	float: left;
+	background-color: #846C5B;
+	margin: -8px;
+	border-radius: 35px;
 }
