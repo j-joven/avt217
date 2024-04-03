@@ -90,7 +90,7 @@ body { margin: 0; }
 	width: 75px;
 	height: 275px;
 	float: left;
-	margin: -40px;
+	margin: 0;
 	border: 20px double;
 	border-color: #C4B2BC;
 	border-radius: 35px;
@@ -100,8 +100,8 @@ body { margin: 0; }
 .p3-3 {
 	width: 175px;
 	height: 75px;
-	margin: -50px;
-	float: right;
+	margin: -200px;
+	float: left;
 	border: 20px double;
 	border-color: #332E3C;
 	border-radius: 35px;
@@ -111,9 +111,9 @@ body { margin: 0; }
 .p3-4 {
 	width: 100px;
 	height: 100px;
-	float: right;
+	float: left;
 	background-color: #D8D4F2;
-	margin: -8px;
+	margin: 10px;
 	border-radius: 35px;
 }
 
@@ -122,6 +122,6 @@ body { margin: 0; }
 	height: 100px;
 	float: left;
 	background-color: #846C5B;
-	margin: -8px;
+	margin: 45px;
 	border-radius: 35px;
 }
