@@ -124,4 +124,32 @@ body { margin: 0; }
 	background-color: #846C5B;
 	margin: 45px;
 	border-radius: 35px;
-}
+
+
+/* pattern 4 css */
+
+	width: 75px;
+	height: 275px;
+	float: left;
+	margin: 0;
+	border: 20px double;
+	border-color: #C4B2BC;
+	border-radius: 35px;
+	transform: rotate(22deg);
+
+	width: 75px;
+	height: 275px;
+	float: left;
+	margin: 0;
+	border: 20px double;
+	border-color: #C4B2BC;
+	border-radius: 35px;
+	transform: rotate(22deg);
+	width: 75px;
+	height: 275px;
+	float: left;
+	margin: 0;
+	border: 20px double;
+	border-color: #C4B2BC;
+	border-radius: 35px;
+	transform: rotate(22deg);
