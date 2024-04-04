@@ -159,16 +159,16 @@ body { margin: 0; }
 	border: 20px ridge;
 	border-color: #9A348E;
 	border-radius: 50px;
-	transform: rotate(90deg);
+	transform: rotate(-75deg);
 }
 
 .p4-4 {
-	width: 75px;
+	width: 275px;
 	height: 275px;
 	float: left;
-	margin: 0;
+	margin: -50px;
 	border: 20px double;
-	border-color: #C4B2BC;
+	border-color: #F9DBBD;
 	border-radius: 35px;
-	transform: rotate(22deg);
+	transform: rotate(-22deg);
 }
