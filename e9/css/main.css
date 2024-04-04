@@ -172,3 +172,43 @@ body { margin: 0; }
 	border-radius: 35px;
 	transform: rotate(-22deg);
 }
+
+.p5-1 {
+	width: 75px;
+	height: 75px;
+	background-color: rebeccapurple;
+	float: left;
+	opacity: .7;
+	margin: -8px;
+	transform: skew(10deg, 30deg);
+}
+
+.p5-2 {
+	width: 75px;
+	height: 75px;
+	background-color: rebeccapurple;
+	float: left;
+	opacity: .7;
+	margin: -8px;
+	transform: skew(10deg, 30deg);
+}
+
+.p5-3 {
+	width: 75px;
+	height: 75px;
+	background-color: rebeccapurple;
+	float: left;
+	opacity: .7;
+	margin: -8px;
+	transform: skew(10deg, 30deg);
+}
+
+.p5-4 {
+	width: 75px;
+	height: 75px;
+	background-color: rebeccapurple;
+	float: left;
+	opacity: .7;
+	margin: -8px;
+	transform: skew(10deg, 30deg);
+}
