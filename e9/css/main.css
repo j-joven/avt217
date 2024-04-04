@@ -124,7 +124,7 @@ body { margin: 0; }
 	background-color: #846C5B;
 	margin: 45px;
 	border-radius: 35px;
-
+}
 
 /* pattern 4 css */
 
@@ -132,33 +132,34 @@ body { margin: 0; }
 	width: 75px;
 	height: 275px;
 	float: left;
-	margin: 0;
-	border: 20px double;
-	border-color: #C4B2BC;
+	margin: 10px;
+	border: 20px outset;
+	border-color: #DA627D;
 	border-radius: 35px;
-	transform: rotate(22deg);
+	transform: skew(22deg, 30deg);
 } 
 
 .p4-2 {
 	width: 75px;
-	height: 275px;
+	height: 300px;
 	float: left;
-	margin: 0;
-	border: 20px double;
-	border-color: #C4B2BC;
-	border-radius: 35px;
-	transform: rotate(22deg);
+	margin: 15px;
+	border: 8px dotted;
+	border-color: #FCA17D;
+	border-radius:60px;
+	transform: rotate(45deg);
 } 
 
 .p4-3 {
-	width: 75px;
+	width: 100px;
 	height: 275px;
+	background-color: #0D0628;
 	float: left;
 	margin: 0;
-	border: 20px double;
-	border-color: #C4B2BC;
-	border-radius: 35px;
-	transform: rotate(22deg);
+	border: 20px ridge;
+	border-color: #9A348E;
+	border-radius: 50px;
+	transform: rotate(90deg);
 }
 
 .p4-4 {
